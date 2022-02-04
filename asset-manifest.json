@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gnivts/static/css/main.e6c13ad2.css",
+    "main.js": "/gnivts/static/js/main.aa980f85.js",
+    "index.html": "/gnivts/index.html",
+    "main.e6c13ad2.css.map": "/gnivts/static/css/main.e6c13ad2.css.map",
+    "main.aa980f85.js.map": "/gnivts/static/js/main.aa980f85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.aa980f85.js"
+  ]
+}
