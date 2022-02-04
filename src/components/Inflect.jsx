@@ -67,7 +67,6 @@ const Inflect = () => {
                 <Typography variant="h3" color="textPrimary">
                     {result}
                 </Typography>
-
             </Box>
         </div>
     );

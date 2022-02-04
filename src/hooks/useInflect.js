@@ -1,9 +1,7 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import {endings} from '../data/endings'
 import {exceptions} from '../data/exceptions'
  
-
-
 export default function useInflect() {
     const [result, setResult] = useState('')
     const inflect = (noun, caseOfNoun) => {
